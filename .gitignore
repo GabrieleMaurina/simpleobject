@@ -1,4 +1,4 @@
 dist
 build
-simpleobject.egg-info/
+simpleobject.egg-info
 __pycache__
