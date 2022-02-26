@@ -3,6 +3,10 @@
 
 Can be used as a `types.SimpleNamespace`, but it is json serializable like a python dictionary.
 
+### Install
+
+`python -m pip install simpleobject`
+
 ### Usage
 ```python
 from simpleobject import simpleobject
