@@ -1,4 +1,5 @@
 class simpleobject(dict):
+    '''Simple json serializable object'''
 
     def __str__(self):
         name_key = '__name__' if '__name__' in self else 'name' if 'name' in self else None
